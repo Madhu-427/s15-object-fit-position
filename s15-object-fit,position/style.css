@@ -1,0 +1,43 @@
+#k1 {
+    width:210px;
+    height: 650px;
+    object-position: 0% 0%;
+}
+#k2{
+    width: 210px;
+    height: 650px;
+    object-fit: cover;
+    object-position:51% 0%;
+}
+#prabas{
+    width: 210px;
+    height: 650px;
+    object-fit: cover;
+    object-position: 50% 0%;
+}
+#prabas2{
+    width: 210px;
+    height: 650px;
+    object-fit: cover;
+    object-position: -760px 0px;
+}
+#kamal{
+    width: 210px;
+    height: 650px;
+    object-fit: cover;
+    object-position: -230px 0px;
+}
+#amitabh{
+    width: 210px;
+    height: 650px;
+    object-fit: cover;
+    object-position:-430px 1px;
+}
+#deepika{
+    width: 210px;
+    height: 650px;
+    object-fit: cover;
+    object-position: -400px 0px;
+}
+
+
